@@ -1,3 +1,3 @@
 id,timestamp,symbol_original,symbol_executed,direction,score,entry_price,stop_price,tp1_price,tp2_price,atr,exit_price,exit_result,pnl,status,session,execution_mode,broker_order_id
-1,2026-05-17T06:01:35.775Z,MNQ1!,MNQ,buy,7,29500,29490,29545,29575,25,,,,open,Other,shadow,shdw_1778997695775_1rd3ac
-2,2026-05-17T14:21:25.245Z,MNQ1!,MNQ,buy,7,29500,29490,29545,29575,25,29545,tp1,54,closed,NYAM,shadow,shdw_1779027685245_o0gnx2
+1,2026-05-15T23:29:56.970Z,MNQ1!,MNQ,buy,7,21000,20990,21045,21075,25,21045,tp1,54,closed,Other,shadow,shdw_1778887796970_8zahvi
+2,2026-05-15T23:29:56.978Z,NQ1!,NQ,sell,6,21500,21516,21428,21380,40,21516,sl,-320,closed,Other,shadow,shdw_1778887796978_qc3b63
