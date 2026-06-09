@@ -1,0 +1,1 @@
+id,timestamp,symbol_original,symbol_executed,direction,score,entry_price,stop_price,tp1_price,tp2_price,atr,exit_price,exit_result,pnl,status,session,execution_mode,broker_order_id
